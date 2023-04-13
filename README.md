@@ -3,8 +3,6 @@
 - I like to build small applications and games as personal projects in my own time. Right now, I'm teaching myself simple game design in Python to get more experience with long form projects.
 - You can reach me at iancatania.cs@gmail.com if you'd like to get in contact!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancatania&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 iancatania/iancatania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
