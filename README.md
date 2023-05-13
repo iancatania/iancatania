@@ -1,6 +1,8 @@
 - Hi, I’m Ian Catania.
-- I’m interested in cybersecurity and software development, specifically through object-oriented programming. I have the most experience with Java and Python, but I'm always looking to improve my skills in other languages. I'm familiar with SQL databases, specifically through the MYSQL suite and the Django framework for database integration with Python. I have some experience with Wireshark and similar networking tools as well.
-- I like to build small applications and games as personal projects in my own time. Right now, I'm teaching myself simple game design in Python to get more experience with long form projects.
+- I’m interested in software development, specifically through object-oriented programming. I consider myself full-stack, as I have both back and front end experience, and enjoy both. 
+- I have the most experience with Java and Python, but I'm always looking to improve my skills in other languages such as C++ and Kotlin. I'm familiar with SQL databases, specifically through the MYSQL suite and SQLite3.
+- In frontend development, I am most experienced in the Django web framework with Python, as well as HTML/CSS and JavaScript. 
+- Currently I am teaching myself React and Node.js to have a better grasp of full-stack development frameworks. I also would soon like to work with AWS and C# with the .NET framework.
 - You can reach me at iancatania.cs@gmail.com if you'd like to get in contact!
 
 
